@@ -1,1 +1,1 @@
-
+Here we are Creating a sports club management system from an admin perspective where we take input details of the users, make reservations, and provide various indoor and outdoor gaming equipment for use, accordingly. The following are the options from Menu, from where the admin navigates to and creates client reservations.
